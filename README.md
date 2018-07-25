@@ -1,1 +1,2 @@
-# deployment-nodejs-app-on-k8s-IBMCloud
+# Deployment of NodeJS application in k8s container services manged by IBM Cloud (Bluemix)
+
